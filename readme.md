@@ -1,6 +1,6 @@
-# 📞 Call Center Performance Analysis Dashboard
+#  Call Center Performance Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Call Center Performance Analysis Dashboard** is an interactive Power BI project designed to evaluate call center operations, agent performance, customer satisfaction, and issue resolution efficiency.
 
@@ -10,7 +10,7 @@ The project helps management identify operational gaps, monitor agent performanc
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 The primary objective of this project is to analyze call center performance and answer key business questions:
 
@@ -26,7 +26,7 @@ The primary objective of this project is to analyze call center performance and 
 
 ---
 
-## 📊 Key KPIs
+##  Key KPIs
 
 | KPI                               |     Value |
 | --------------------------------- | --------: |
@@ -39,7 +39,7 @@ The primary objective of this project is to analyze call center performance and 
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### KPI Overview
 
