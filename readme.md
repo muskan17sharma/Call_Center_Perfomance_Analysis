@@ -92,7 +92,7 @@ These filters allow users to drill down into specific segments and perform targe
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 ### 1. Strong Issue Resolution
 
@@ -116,7 +116,7 @@ The combination of a **90% resolution rate** and **3.40/5 CSAT** highlights an i
 
 ---
 
-## 🔎 Root Cause Analysis
+##  Root Cause Analysis
 
 The relatively low customer satisfaction may be influenced by:
 
@@ -131,7 +131,7 @@ The dashboard therefore focuses not only on resolution performance but also on t
 
 ---
 
-## 🚀 Recommendations
+##  Recommendations
 
 ### Reduce Average Speed of Answer
 
@@ -174,7 +174,7 @@ Focus on frequently occurring customer issues and explore:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Power BI** — Dashboard development and visualization
 * **Power Query** — Data preparation and transformation
@@ -207,7 +207,7 @@ A dedicated insights page summarizing major findings, possible causes, and recom
 
 ---
 
-## 📌 Business Impact
+##  Business Impact
 
 This dashboard can support call center managers in:
 
@@ -222,7 +222,7 @@ This dashboard can support call center managers in:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 *Add dashboard screenshots here.*
 
@@ -235,7 +235,7 @@ dashboard/
 
 ---
 
-## 📚 Project Summary
+##  Project Summary
 
 This project demonstrates how **Power BI, DAX, and data visualization** can be used to convert raw call center data into a management-focused analytical solution.
 
