@@ -184,7 +184,7 @@ Focus on frequently occurring customer issues and explore:
 
 ---
 
-## 📂 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Agent Report
 
