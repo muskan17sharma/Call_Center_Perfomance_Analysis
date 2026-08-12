@@ -72,7 +72,7 @@ The project analyzes the following major dimensions and metrics.
 - Speed of answer (sec)
 - Satisfaction rating
 
-The `Performance` field is used to classify performance into:
+The *Performance* field is used to classify performance into:
 
 - **Poor**
 - **Good**
@@ -82,13 +82,13 @@ The `Performance` field is used to classify performance into:
 
 ## 4. Measures Created / Used
 
-A dedicated **`_Measures`** table is used in the report.
+A dedicated *_Measures* table is used in the report.
 
 The following measures are confirmed from the PBIX report metadata.
 
 ### 4.1 Total Calls
 
-**Measure:** `Total_Calls`
+**Measure:** *Total_Calls*
 
 Used to display the total number of calls.
 
@@ -100,7 +100,7 @@ Used in:
 
 ### 4.2 Answered Calls
 
-**Measure:** `Answered_Call`
+**Measure:** *Answered_Call*
 
 Used to calculate/display the number of calls that were answered.
 
@@ -112,7 +112,7 @@ Used in:
 
 ### 4.3 Resolved Calls
 
-**Measure:** `Resolved_Call`
+**Measure:** *Resolved_Call*
 
 Used to calculate/display the number of resolved calls.
 
@@ -123,7 +123,7 @@ Used in:
 
 ### 4.4 Answer Rate
 
-**Measure:** `Answer_Rate %`
+**Measure:** *Answer_Rate %*
 
 Used to calculate the percentage of total calls that were answered.
 
@@ -134,7 +134,7 @@ Conceptually:
 
 ### 4.5 Resolved Rate
 
-**Measure:** `Resolved_Rate %`
+**Measure:** *Resolved_Rate %*
 
 Used to calculate the percentage of calls that were resolved.
 
