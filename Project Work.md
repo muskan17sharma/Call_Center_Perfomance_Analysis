@@ -144,7 +144,7 @@ Conceptually:
 
 ### 4.6 Average Speed of Answer
 
-**Measure:** `Avg_Speed_of_Answer (in sec)`
+**Measure:** *Avg_Speed_of_Answer (in sec)*
 
 Used to calculate the average speed of answer in seconds.
 
@@ -152,13 +152,13 @@ This KPI represents how quickly calls are being answered.
 
 ### 4.7 Average Satisfaction Rating
 
-**Measure:** `Avg_Satisfaction_Rating`
+**Measure:** *Avg_Satisfaction_Rating*
 
 Used to calculate the average customer satisfaction rating.
 
 ### 4.8 Unanswered Calls
 
-**Measure:** `UnAnswered_Call`
+**Measure:** *UnAnswered_Call*
 
 Used specifically for the **Answered vs Unanswered** visual.
 
@@ -198,7 +198,7 @@ The dashboard contains a **monthly call trend line chart**.
 
 There is also a model field/measure named:
 
-**`Count of Call Id MoM%`**
+**Count of Call Id MoM%**
 
 which indicates that a **Month-over-Month percentage analysis** has been incorporated into the model/report.
 
@@ -384,7 +384,7 @@ There are two confirmed conditional-formatting mechanisms.
 
 ### 12.1 Resolution Status Icons
 
-The `Resolved_` field has conditional icons.
+The *Resolved_* field has conditional icons.
 
 The logic distinguishes between:
 
@@ -398,7 +398,7 @@ This makes resolved/unresolved status visually easier to identify.
 
 ### 12.2 Performance-Based Background Color
 
-The `Performance` field uses conditional background formatting.
+The *Performance* field uses conditional background formatting.
 
 The three performance categories are:
 
