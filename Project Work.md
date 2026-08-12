@@ -396,34 +396,6 @@ Different icons are displayed based on the resolution status.
 
 This makes resolved/unresolved status visually easier to identify.
 
-### 12.2 Performance-Based Background Color
-
-The *Performance* field uses conditional background formatting.
-
-The three performance categories are:
-
-#### Poor
-
-Background:
-
-`#e68f96`
-
-#### Good
-
-Background:
-
-`#f0e199`
-
-#### Excellent
-
-Background:
-
-`#77DF8C`
-
-Therefore, the table visually communicates performance level directly through cell background color.
-
----
-
 ## 13. Visual Formatting
 
 The report also uses Power BI visual-formatting features such as:
