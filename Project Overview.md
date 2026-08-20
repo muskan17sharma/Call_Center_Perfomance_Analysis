@@ -32,7 +32,7 @@ The report contains three main report sections:
 
 The main data table used in the Power BI model is:
 
-**`data`**
+**data**
 
 The report uses fields including:
 
