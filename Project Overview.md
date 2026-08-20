@@ -295,7 +295,7 @@ This allows performance to be examined at the individual-agent level.
 
 A **Donut Chart** is used to analyze calls by topic.
 
-The `Topic` field is used as the category and call count is used as the metric.
+The *Topic* field is used as the category and call count is used as the metric.
 
 ### 8.6 Call Volume by Topic
 
