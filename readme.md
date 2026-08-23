@@ -190,7 +190,7 @@ Focus on frequently occurring customer issues and explore:
 
 Provides detailed agent-level information along with call status and performance metrics.
 
-### 2. Dashboard
+### 2. Performance Analysis
 
 The main executive dashboard containing:
 
