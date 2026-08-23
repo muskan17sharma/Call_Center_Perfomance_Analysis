@@ -4,7 +4,7 @@
 
 This project is a **Call Center Performance Analysis dashboard developed in Microsoft Power BI**.
 
-The project focuses on:
+The project focuses on : 
 
 - Overall call volume
 - Answered vs. unanswered calls
