@@ -4,7 +4,7 @@
 
 This project is a **Call Center Performance Analysis dashboard developed in Microsoft Power BI**.
 
-The project focuses on : 
+The project focuses on:
 
 - Overall call volume
 - Answered vs. unanswered calls
@@ -23,7 +23,7 @@ The project focuses on :
 The report contains three main report sections:
 
 1. **Agent Report**
-2. **Dashboard**
+2. **Performance Analysis**
 3. **Insights**
 
 ---
