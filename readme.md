@@ -199,6 +199,7 @@ The main executive dashboard containing:
 * Answered vs Unanswered analysis
 * Agent performance table
 * Call topic distribution
+* Resolved rate by topic
 * Interactive filters
 
 ### 3. Insights
