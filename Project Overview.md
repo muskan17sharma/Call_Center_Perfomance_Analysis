@@ -246,7 +246,7 @@ Six cards are used for the main performance indicators:
 
 - Total Calls
 - Answered Calls
-- Answer Rate
+- Unanswered Calls
 - Resolved Rate
 - Average Speed of Answer
 - Average Satisfaction
