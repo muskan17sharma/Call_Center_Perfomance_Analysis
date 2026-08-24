@@ -216,9 +216,9 @@ Shows overall call volume.
 
 Shows the number of answered calls.
 
-### KPI 3 — Answer Rate %
+### KPI 3 — Unanswered Call
 
-Shows the percentage of calls answered.
+Shows the numberb of unanswered call.
 
 ### KPI 4 — Resolved Rate %
 
