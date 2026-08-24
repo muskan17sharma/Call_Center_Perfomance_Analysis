@@ -204,7 +204,7 @@ which indicates that a **Month-over-Month percentage analysis** has been incorpo
 
 ---
 
-## 7. Dashboard KPIs
+## 7. Performance Analysis (Dashboard) KPIs
 
 The main Dashboard contains six KPI cards.
 
