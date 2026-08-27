@@ -262,7 +262,6 @@ A **Line Chart** is used.
 - Count of Call Id
 
 Purpose:
-
 To understand how call volume changes over time.
 
 ### 8.3 Answered vs Unanswered
@@ -275,7 +274,6 @@ Measures:
 - UnAnswered_Call
 
 Purpose:
-
 To show the proportion of answered and unanswered calls.
 
 ### 8.4 Agent Performance Table / Matrix
