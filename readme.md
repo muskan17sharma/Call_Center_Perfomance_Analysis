@@ -135,7 +135,7 @@ The dashboard therefore focuses not only on resolution performance but also on t
 
 ### Reduce Average Speed of Answer
 
-Target an **ASA of 30 seconds or less** by:
+Target an **Avg speed of answer of 30 seconds or less** by:
 
 * Optimizing agent staffing
 * Improving shift planning
