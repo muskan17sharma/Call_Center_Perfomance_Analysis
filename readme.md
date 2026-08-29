@@ -114,7 +114,7 @@ Long waiting times can negatively impact customer satisfaction even when the cus
 
 The combination of a **90% resolution rate** and **3.40/5 CSAT** highlights an important operational gap: the quality and speed of the service experience matter in addition to simply resolving the customer's problem.
 
----
+----
 
 ##  Root Cause Analysis
 
@@ -129,7 +129,7 @@ The relatively low customer satisfaction may be influenced by:
 
 The dashboard therefore focuses not only on resolution performance but also on the customer journey leading up to resolution.
 
----
+----
 
 ##  Recommendations
 
