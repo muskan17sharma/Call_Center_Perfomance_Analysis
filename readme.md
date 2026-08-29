@@ -112,7 +112,7 @@ Long waiting times can negatively impact customer satisfaction even when the cus
 
 ### 4. Resolution ≠ Customer Experience
 
-The combination of a **90% resolution rate** and **3.40/5 CSAT** highlights an important operational gap: the quality and speed of the service experience matter in addition to simply resolving the customer's problem.
+The combination of a **90% resolution rate** and **3.40/5 CSAT (customer satisfaction)** highlights an important operational gap: the quality and speed of the service experience matter in addition to simply resolving the customer's problem.
 
 ---
 
