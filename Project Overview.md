@@ -161,7 +161,6 @@ Used to calculate the average customer satisfaction rating.
 **Measure:** *UnAnswered_Call*
 
 Used specifically for the **Answered vs Unanswered** visual.
-
 ---
 
 ## 5. Calculations / Aggregations Used
