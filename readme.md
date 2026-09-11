@@ -92,7 +92,7 @@ These filters allow users to drill down into specific segments and perform targe
 
 ---
 
-##  Key Insights
+##  Key Insights :
 
 ### 1. Strong Issue Resolution
 
