@@ -139,7 +139,7 @@ Target an **Avg speed of answer of 30 seconds or less** by:
 
 * Optimizing agent staffing
 * Improving shift planning
-* Monitoring peak call periods
+* Monitoring peak call periods and optimizing call
 * Optimizing call routing
 * Balancing workloads across agents
 
